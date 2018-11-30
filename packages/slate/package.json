@@ -1,9 +1,9 @@
 {
-  "name": "slate",
+  "name": "@productboard/slate",
   "description": "A completely customizable framework for building rich text editors.",
-  "version": "0.42.6",
+  "version": "0.42.7",
   "license": "MIT",
-  "repository": "git://github.com/ianstormtaylor/slate.git",
+  "repository": "git://github.com/productboard/slate.git",
   "main": "lib/slate.js",
   "module": "lib/slate.es.js",
   "umd": "dist/slate.js",
